@@ -1,0 +1,20 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pages {
+    width: 35%;
+    color: #333333;
+}
+
+.pages ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pages ul li{
+    list-style: none;
+}

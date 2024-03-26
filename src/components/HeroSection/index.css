@@ -1,0 +1,46 @@
+.hero{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    margin-top: 70px;
+}
+
+.hero p{
+    color: #333333;
+}
+
+.left, .right{
+    width: 50%;
+}
+
+.right img{
+    width: -webkit-fill-available;
+    color: #333333;
+}
+
+.intro{
+    font-size: 80px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    width: 80%;
+}
+
+.welcome{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.intro span{
+    color: #DC0155;
+}
+
+.btn{
+    padding: 15px;
+    background-color: #DC0155;
+    border-radius: 32px;
+    width: 150px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 15px;
+    border: none;
+}
